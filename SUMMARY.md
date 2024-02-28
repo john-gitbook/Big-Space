@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎤 Presentations](README.md)
+* [🎤 This page can be deleted](README.md)
 * [😀 Page 1](page-1/README.md)
   * [sub 1](page-1/sub-1.md)
   * [sub 2](page-1/sub-2.md)
